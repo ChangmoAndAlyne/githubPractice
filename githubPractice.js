@@ -1,1 +1,6 @@
-console.log("This is another change! Let's do this!");
+const hello = 'hello';
+
+const printHello = () => {
+  console.log(hello);
+  
+}
