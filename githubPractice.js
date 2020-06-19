@@ -10,3 +10,7 @@ const alert = () => {
   console.log('Trying this again');
   
 };
+
+const alert = function () {
+  console.log("give me some conflicts conflicts conflicts I want conflicts");
+};
