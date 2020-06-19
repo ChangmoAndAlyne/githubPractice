@@ -4,8 +4,9 @@ const test = () => {
   console.log("test test test");
 };
 
-const hello = "hello";
-
-const printHello = () => {
-  console.log(hello); 
-}
+const alert = () => {
+  // console.log(hello);
+  alert('Gimme some conflicts!')
+  console.log('Trying this again');
+  
+};
